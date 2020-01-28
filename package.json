@@ -1,0 +1,15 @@
+{
+  "name": "aplicacionclimatologica",
+  "version": "1.0.0",
+  "description": "aplicacion de lineas de comando que informa sobre el clima\r de la ciudad indicada por el usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "victor daniel zabaleta castellar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.1.0"
+  }
+}
